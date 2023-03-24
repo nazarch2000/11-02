@@ -44,7 +44,7 @@
 
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 
-![image](https://user-images.githubusercontent.com/106932460/227027060-fb7f7fc4-de7f-4618-afde-432f1aad1157.png)
+![image](https://user-images.githubusercontent.com/106932460/227472031-c69fdd68-ebaf-4ce5-93f9-0034822c9a9d.png)
 
 ---
 
